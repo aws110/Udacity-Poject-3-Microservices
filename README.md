@@ -16,7 +16,7 @@ All of the images used for the application can be found on my docker hub:
 
 Navigate  to the folder containing the docker-compose.yaml file:
 
-Project_3_micro_services/udacity-c3-deployments/docker
+udacity-c3-deployments/docker
 
 Run the compose command to host the application locally:
 
@@ -29,11 +29,11 @@ Go to http://localhost:8100 in a browser to view
 I chose to use kubeone and terraform to create my kubernetes cluster. The terraform 
 configuration files can be found  in the following directory:
 
-Project_3_micro_services/udacity-c3-deployments/terraform/
+udacity-c3-deployments/terraform/
 
 Once the cluster is running. The files within
  
-Project_3_micro_services/udacity-c3-deployments/k8s/[filenames]
+udacity-c3-deployments/k8s/[filenames]
 
 must be applied to the cluster using the following command:
 
