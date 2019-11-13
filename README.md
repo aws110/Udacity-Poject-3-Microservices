@@ -1,5 +1,5 @@
 # Project-3-Microservices
-Adam Simonar
+Author: Adam Simonar
 
 ##Setting up the Application
 
